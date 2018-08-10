@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Ask the magic ball and press F5 to know your future 🔮</h2>
+
+<div class="MagicBallContainer">
+    <div class="MagicBall">
+        <p>@ViewData["Answer"]</p>
+    </div>
+</div>
+
+<style type="text/css">
+    .MagicBall {
+        height: 31rem;
+        width: 30rem;
+        background-image: url(https://image.ibb.co/cTjHGK/Magic_Ball.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+    .MagicBallContainer {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+    h2 {
+        text-align: center;
+    }
+
+    p {
+        color: white;
+    }
+</style>

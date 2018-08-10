@@ -1,0 +1,11 @@
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.0\Magic8Ball.deps.json
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.0\Magic8Ball.runtimeconfig.json
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.0\Magic8Ball.runtimeconfig.dev.json
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.0\Magic8Ball.dll
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp2.0\Magic8Ball.pdb
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.0\Magic8Ball.csprojAssemblyReference.cache
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.0\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.0\Magic8Ball.AssemblyInfoInputs.cache
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.0\Magic8Ball.AssemblyInfo.cs
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.0\Magic8Ball.dll
+C:\Users\antiagoCarlos.Cuinas\source\repos\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp2.0\Magic8Ball.pdb
